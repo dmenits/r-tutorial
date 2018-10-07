@@ -19,4 +19,6 @@
 *.knit.md
 *.aux
 *.dvi
+*.ppt
+*.pptx
 xgboost.model
