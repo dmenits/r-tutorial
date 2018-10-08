@@ -6,6 +6,7 @@ This repo contains demos and tutorials of the lecture Data Mining held at the Un
 + RStudio https://www.rstudio.com
 
 # R Tutorials # 
++ Getting Started in R -- Tinyverse Edition https://github.com/eddelbuettel/gsir-te
 + Introduction to R https://cran.r-project.org/doc/manuals/R-intro.pdf
 + R for Data Science by Garrett Grolemund and Hadley Wickham http://r4ds.had.co.nz/index.html
 + Titanic: Getting Started With R by Trevor Stephens http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/ 
